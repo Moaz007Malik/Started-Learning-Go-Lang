@@ -1,4 +1,4 @@
-![Go Lang](image.png)
+![Go Lang](https://miro.medium.com/v2/resize:fit:1400/0*SoqCeEz9EctJBXKw.png)
 
 
 # **Go Language Learning Challenge**
